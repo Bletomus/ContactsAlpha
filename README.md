@@ -1,5 +1,5 @@
 ## ContactsAlpha - Contacts Manager
-###[**Created by Leon**](https://bletomus.github.io/) **Pirate Utilities**
+### [**Created by Leon**](https://bletomus.github.io/) **Pirate Utilities**
 
 ### ContactsAlpha
 ![Image](images/app_home.png)
