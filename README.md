@@ -14,7 +14,7 @@ ContactsAlpha is a lightweight contacts management application which provides a 
 - Ability to save contact and details such as preference, favorite or note, phone number, address, email and date of birth
 ![image](images/saving_new_contact.png)
 - View Contact list
-![image](images/app_home.png)
+![image](images/app_saved.png)
 - Make call to saved contacts
 ![image](images/making_a_call.png)
  
