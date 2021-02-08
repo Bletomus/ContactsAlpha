@@ -19,6 +19,7 @@ ContactsAlpha is a lightweight contacts management application which provides a 
 ![image](images/make_a_call.png)
 ![image](images/making_a_call.png)
  
-## Contact Me
+## Contact Us
 To view my other projects just follow this [link](https://bletomus.github.io/) or send me an email at leonkanyayi@yahoo.com
 
+Logo made by [DesignEvo free logo creator]("https://www.designevo.com/)
