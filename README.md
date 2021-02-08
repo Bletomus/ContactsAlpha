@@ -16,6 +16,7 @@ ContactsAlpha is a lightweight contacts management application which provides a 
 - View Contact list
 ![image](images/app_saved.png)
 - Make call to saved contacts
+![image](images/make_a_call.png)
 ![image](images/making_a_call.png)
  
 ## Contact Me
