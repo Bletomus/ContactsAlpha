@@ -18,6 +18,6 @@ ContactsAlpha is a lightweight contacts management application which provides a 
 - Make call to saved contacts
 ![image](images/making_a_call.png)
  
-## #Contact Me
+## Contact Me
 To view my other projects just follow this [link](https://bletomus.github.io/) or send me an email at leonkanyayi@yahoo.com
 
