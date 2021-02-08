@@ -1,7 +1,7 @@
-## ContactsAlpha - Contacts Manager
+## Contacts Alpha - Contacts Manager
 ### [**Created by Leon**](https://bletomus.github.io/) **Pirate Utilities**
 
-### ContactsAlpha
+### Contacts Alpha
 ![Image](images/app_home.png)
 ContactsAlpha is a lightweight contacts management application which provides a simple interface to save contacts for local business and personal usage
 
